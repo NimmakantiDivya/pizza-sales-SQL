@@ -9,7 +9,7 @@ Pizza Sales SQL Analysis:
   pizza_types – pizza_type_id, name, category, ingredients
   order_details – order_id, pizza_id, quantity
   
-  🧠 What I Di
+  🧠 What I Did
   I used SQL to:
   Calculate total revenue
   Count total orders
